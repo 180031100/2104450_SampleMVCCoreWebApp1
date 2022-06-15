@@ -1,0 +1,7 @@
+D:\intern\SampleWebAppForAzure\SampleMVCCoreWebApp1\SampleMVCCoreWebApp1\obj\Release\net6.0\PubTmp\Out\SampleMVCCoreWebApp1.exe
+D:\intern\SampleWebAppForAzure\SampleMVCCoreWebApp1\SampleMVCCoreWebApp1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\intern\SampleWebAppForAzure\SampleMVCCoreWebApp1\SampleMVCCoreWebApp1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\intern\SampleWebAppForAzure\SampleMVCCoreWebApp1\SampleMVCCoreWebApp1\obj\Release\net6.0\PubTmp\Out\SampleMVCCoreWebApp1.dll
+D:\intern\SampleWebAppForAzure\SampleMVCCoreWebApp1\SampleMVCCoreWebApp1\obj\Release\net6.0\PubTmp\Out\SampleMVCCoreWebApp1.deps.json
+D:\intern\SampleWebAppForAzure\SampleMVCCoreWebApp1\SampleMVCCoreWebApp1\obj\Release\net6.0\PubTmp\Out\SampleMVCCoreWebApp1.runtimeconfig.json
+D:\intern\SampleWebAppForAzure\SampleMVCCoreWebApp1\SampleMVCCoreWebApp1\obj\Release\net6.0\PubTmp\Out\SampleMVCCoreWebApp1.pdb
